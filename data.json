@@ -1,0 +1,45 @@
+var dataMovies = `[
+  {
+    "name": "Baaghi",
+    "image": "img/baaghi.jpg",
+    "description": "Action,Darama",
+    "releasedate": "22.10.2020",
+    "likes": "0"
+  },
+  {
+    "name": "Commando",
+    "image": "img/Commando-2_Poster.jpg",
+    "description": "Short description",
+    "releasedate": "26.10.2020",
+    "likes": "0"
+  },
+  {
+    "name": "Crazy_Rich_Asians",
+    "image": "img/Crazy_Rich_Asians_poster.png",
+    "description": "Short description",
+    "releasedate": "25.10.2020",
+    "likes": "0"
+  },
+  {
+    "name": "Dhaakad",
+    "image": "img/dhaakad.jpg",
+    "description": "Short description",
+    "releasedate": "2.11.2020",
+    "likes": "0"
+  },
+  {
+    "name": "Herunterladen",
+    "image": "img/Herunterladen.jpg",
+    "description": "Short description",
+    "releasedate": "20.11.2020",
+    "likes": "0"
+  },
+  {
+    "name": "Tanhaji",
+    "image": "img/Tanhaji-The-Unsung-Warrior-New-Poster.jpg",
+    "description": "Short description",
+    "releasedate": "20.10.2020"
+    "likes": "0"
+  }
+   
+]`;
