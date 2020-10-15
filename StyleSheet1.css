@@ -35,6 +35,26 @@ li {
 
 .sidetext {
     position: absolute;
-    bottom: -0.5em;
-    right: 1.5em;
+    bottom: 0.5em;
+    right: 2.5em
+}
+
+.textmovie {
+    color: white;
+}
+
+.btn {
+    width: 40px;
+    background-color: green;
+    margin-right: 30px;
+    ;
+}
+
+.likes1 {
+    color: green;
+}
+
+.liketext {
+    color: green;
+    margin-right: 10px;
 }

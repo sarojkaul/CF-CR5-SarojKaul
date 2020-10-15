@@ -1,43 +1,43 @@
 var dataMovies = `[
   {
-    "name": "Baaghi",
+    "name": "Baaghi 3",
     "image": "img/baaghi.jpg",
-    "description": "Action,Darama",
+    "description": "'Baaghi' is a story of an upcoming actress Sia (Shraddha Kapoor), who gets kidnapped by a Bangkok based power businessman Raghav (Sudheer Babu).",
     "releasedate": "22.10.2020",
     "likes": "0"
   },
   {
     "name": "Commando",
-    "image": "img/Commando-2_Poster.jpg",
-    "description": "Short description",
+    "image": "img/commi1.jpg",
+    "description": "A retired Special Forces colonel tries to save his daughter, who was abducted by his former subordinate.",
     "releasedate": "26.10.2020",
     "likes": "0"
   },
   {
-    "name": "Crazy_Rich_Asians",
+    "name": "Crazy_Rich_Asian",
     "image": "img/Crazy_Rich_Asians_poster.png",
-    "description": "Short description",
+    "description": "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
     "releasedate": "25.10.2020",
     "likes": "0"
   },
   {
-    "name": "Dhaakad",
-    "image": "img/dhaakad.jpg",
-    "description": "Short description",
+    "name": "Half Girlfriend",
+    "image": "img/half.jpg",
+    "description": "Kangana Ranaut is all set to make the Diwali of 2020 all the more 'Dhamakedaar' with her next film Dhaakad.",
     "releasedate": "2.11.2020",
     "likes": "0"
   },
   {
-    "name": "Herunterladen",
+    "name": "Huda Hafiz",
     "image": "img/Herunterladen.jpg",
-    "description": "Short description",
+    "description": "A newly married couple's life falls in jeopardy when the wife goes missing under mysterious circumstances.",
     "releasedate": "20.11.2020",
     "likes": "0"
   },
   {
     "name": "Tanhaji",
     "image": "img/Tanhaji-The-Unsung-Warrior-New-Poster.jpg",
-    "description": "Short description",
+    "description": "Tanhaji Malusare, a military chieftain in the army of the Maratha king Shivaji, leads the charge to capture the strategically important Kondhana fort",
     "releasedate": "20.10.2020",
     "likes": "0"
   }
