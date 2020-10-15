@@ -2,29 +2,39 @@
     font-family: sans-serif;
     font-size: 16px;
     height: 100%;
-  }
+}
 
 * {
     margin: 0;
     padding: 0;
 }
+
 .header {
-    background-color:black;
+    background-color: black;
 }
-li{
-    font-size:x-large;
-   
+
+li {
+    font-size: x-large;
 }
-main{
-    background-color:black;
-    
+
+main {
+    background-color: black;
 }
+
 li {
     list-style-type: none;
 }
-.row{
-    background-color:black;
+
+.row {
+    background-color: black;
 }
 
+.images {
+    width: 100%;
+}
 
-  
+.sidetext {
+    position: absolute;
+    bottom: -0.5em;
+    right: 1.5em;
+}

@@ -38,7 +38,7 @@ var dataMovies = `[
     "name": "Tanhaji",
     "image": "img/Tanhaji-The-Unsung-Warrior-New-Poster.jpg",
     "description": "Short description",
-    "releasedate": "20.10.2020"
+    "releasedate": "20.10.2020",
     "likes": "0"
   }
    
