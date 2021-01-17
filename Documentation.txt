@@ -1,4 +1,4 @@
 I have made “Movie factory” website.  Information about the movies stored in a JSON file.
-All images should be stored in an img folder and all JavaScript files in a js folder
+All images stored in an img folder and all JavaScript files in a js folder
 I have used Bootstrap to design my website.
 There is also a like button when you click on the button 'Likes' increased by one.
